@@ -1,0 +1,13 @@
+name: "pamdilearns"
+version: "0.0.0"
+description: "just figuring things"
+keywords: ""
+authors: "pamdi"
+collaborators: ""
+funding: ""
+license: ""
+homepage: ""
+source:
+  architectures:
+    - "linux/amd64"
+    - "linux/arm64"
